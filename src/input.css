@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.header-bg{
+    height: 600px;
+    background-image: url(/imgs/element5-digital-ceWgSMd8rvQ-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
